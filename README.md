@@ -1,11 +1,6 @@
 ## Hello👋 I'm Nelann Lloyd D Sabando.
 A Full-Stack Software Developer and Cybersecurity Enthusiast building reliable, scalable software and actively expanding my expertise into cybersecurity. Driven by a strong willingness to learn, I consistently master new tools to solve real-world problems while maintaining strict standards for quality in every project.
 
-### 📬 Connect With Me
-<a href="https://www.linkedin.com/in/nelann-lloyd-sabando-2bb5a2344"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/Devneal02"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
----
 
 ### 🚀 Core Competencies
 * **Security & Networking:** Web Penetration Testing, Application Security, Networking Fundamentals

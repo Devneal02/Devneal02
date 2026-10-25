@@ -67,6 +67,7 @@ A Full-Stack Software Developer and Cybersecurity Enthusiast building reliable, 
 
 **Security, Networking & Auth**
 
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-333333?style=for-the-badge)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
 ![Tailscale](https://img.shields.io/badge/Tailscale-FFFFFF?style=for-the-badge&logo=tailscale&logoColor=black)
@@ -87,11 +88,14 @@ A Full-Stack Software Developer and Cybersecurity Enthusiast building reliable, 
 **Tools & IDEs**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/import_antigravity-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 
 

@@ -88,8 +88,8 @@ A Full-Stack Software Developer and Cybersecurity Enthusiast building reliable, 
 **Tools & IDEs**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge)
-![Antigravity](https://img.shields.io/badge/import_antigravity-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/antigravity-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)

@@ -1,5 +1,5 @@
-## Hello👋, I'm Nelann Lloyd D. Sabando.
-A Full-Stack Software Developer and Cybersecurity Enthusiast building reliable, scalable software and actively expanding my expertise into cybersecurity. Driven by a strong willingness to learn, I consistently master new tools to solve real-world problems while maintaining strict standards for quality in every project.
+## 👋Hello, I'm Nelann!
+An Asipiring Full-Stack Software Engineer and Cybersecurity Enthusiast building reliable, scalable software and actively expanding my expertise into cybersecurity. Driven by a strong willingness to learn, I consistently master new tools to solve real-world problems while maintaining strict standards for quality in every project.
 
 
 ### 🚀 Core Competencies
